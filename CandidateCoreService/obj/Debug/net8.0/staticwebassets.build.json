@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sfAISJidlfW9GhA6LJLIHiaZo9OH0plPPBcIwbvNRho=",
+  "Source": "CandidateCoreService",
+  "BasePath": "_content/CandidateCoreService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
