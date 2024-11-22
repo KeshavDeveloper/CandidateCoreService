@@ -80,7 +80,6 @@ public class CandidatesControllerTests
 
 5. Running the Application and Tests
 
-Open CandidateCoreService.sln file on Visual studio  2022
 Run the Application: Start the application in Visual Studio or via terminal:
 
 dotnet run
