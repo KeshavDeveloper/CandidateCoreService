@@ -23,12 +23,13 @@ public class Program
 
 2. Set Up Entity Framework Core Migrations
 Add Migrations: Open Package Manager Console or Terminal and run:
-dotnet ef migrations add InitialCreate
+................................................................................................................................................................
+=>    dotnet ef migrations add InitialCreate
 
 Apply Migrations: After the migration is created, apply it to the database:
 
-dotnet ef database update
-
+=>   dotnet ef database update
+..............................................................................................................................................................
 3. Configure SSL and Connection Issues
 SSL Trust Error: If you're facing an SSL trust error, add TrustServerCertificate=true to your connection string:
 
